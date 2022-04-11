@@ -5,7 +5,7 @@
 ### Results
 #### Deliverable 1
 * During this challenge we built a large table of everyone who was qualified to retire, their title, and their start dates. We also were able to remove any duplicates using Distinct on. This gave us a list of individuals that we could sort through and rturned 133,776 employees. 
-![retirement]()
+![retirement](https://github.com/allisonorourke-ufGfGy/Pewlett-Hackard-Analysis/blob/main/Images/Retirement%20info.png)
 * We also were able to determine how many individuals there were retiring in each department. This showed that Senior Engineers had the highest number of individuals retiring followed by Senior Staff, Engineer, Staff, Technique Leaderes, Assistant Engineer, and Manager. 
 #### Deliverable 2
 * For the second deliverable we wanted to determine who was eligable for a mentorship program. We were able to find that there were 1,940 individuals that were eligable for the mentorship program. 
