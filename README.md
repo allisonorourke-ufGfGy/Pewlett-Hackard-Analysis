@@ -12,4 +12,6 @@
 * When filtering the data we were able to find that the senior staff made up the highest category of people that were able to be eligable. 
 ### Summary
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+  * There will be 133,776 individuals that will but elidgable for replacement as the "silver tsunami runs through. 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  * There are a lot more retirement-ready employees to help mentor the upcoming individuals. There are 1,940 indivduals that are avaiable for the mentorship program while there are 133,776 retirement-ready employees. It is actually reccomended that the mentorship elidgablity is expanded to allow for more individuals to be mentored before the silver tsunami hits.
